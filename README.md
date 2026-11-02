@@ -1,6 +1,6 @@
 # eldoradolists
 
-Console tool for selling Steal a Brainrot items on [Eldorado.gg](https://www.eldorado.gg). It lists items from images, matches the lowest price, restocks, pauses listings and greets new orders.
+Console tool for selling items on [Eldorado.gg](https://www.eldorado.gg). It lists items from images, matches the lowest price, restocks, pauses listings and greets new orders.
 
 Use at your own risk and check Eldorado's rules first.
 
@@ -67,11 +67,6 @@ Add `--reauth` to paste a new login at startup.
 
 Files in `images/` are named `<Mutation><ItemName><Traits>Traits<Generation>`, and everything but the item name is optional. Types are `.png`, `.jpg`, `.jpeg` and `.heic`.
 
-```
-GoldLosBros3Traits750M.png
-DiamondLaGrandeCombinasion2-3Traits500M-1.1B.png
-LosBros2B.png
-```
 
 ### Batch file
 
