@@ -1,0 +1,6 @@
+{
+  "token": "YOUR_ELDORADO_ID_TOKEN",
+  "cookie_string": "",
+  "xsrf": "YOUR_XSRF_TOKEN",
+  "refresh": "YOUR_REFRESH_TOKEN"
+}

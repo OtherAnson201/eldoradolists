@@ -1,0 +1,10 @@
+# login stuff, never push
+config.json
+lung.txt
+heart.txt
+refresh.txt
+
+# listing pics
+images/
+
+__pycache__/
